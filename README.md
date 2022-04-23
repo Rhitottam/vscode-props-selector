@@ -47,9 +47,12 @@ What things you need to install the software and how to install them.
 ![Usage with React components](https://raw.githubusercontent.com/Rhitottam/vscode-props-selector/master/react-props.gif)
 
 `Usage with Object properties`
+
 ![Usage with Object properties](https://raw.githubusercontent.com/Rhitottam/vscode-props-selector/master/properties-selector.gif)
 
 ### Installing
+
+Install from [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RhitottamDe.react-props-selector)
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 

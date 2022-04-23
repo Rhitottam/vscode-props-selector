@@ -2,7 +2,7 @@
 	"name": "react-props-selector",
 	"displayName": "Properties Selector",
 	"description": "Properties Selector for React Components and maybe more...",
-	"version": "0.1.4",
+	"version": "0.1.5",
 	"enableProposedApi": true,
 	"engines": {
 		"vscode": "^1.50.0"
@@ -11,6 +11,7 @@
     "name": "Rhitottam De",
     "email": "rhitottam@gmail.com"
   },
+	"publisher": "RhitottamDe",
   "keywords": [ 
     "vsce",
 		"typescript",
