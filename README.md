@@ -44,10 +44,10 @@ What things you need to install the software and how to install them.
 
 `Usage with React components`
 
-![Usage with React components](https://github.com/Rhitottam/vscode-props-selector/-/raw/master/react-props.gif)
+![Usage with React components](https://raw.githubusercontent.com/Rhitottam/vscode-props-selector/master/react-props.gif)
 
 `Usage with Object properties`
-![Usage with Object properties](https://github.com/Rhitottam/vscode-props-selector/-/raw/master/properties-selector.gif)
+![Usage with Object properties](https://raw.githubusercontent.com/Rhitottam/vscode-props-selector/master/properties-selector.gif)
 
 ### Installing
 
