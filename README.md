@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/Rhitottam/vscode-props-selector/-/raw/master/media/react.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://raw.githubusercontent.com/Rhitottam/vscode-props-selector/master/media/react.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Properties Selector for Typescript</h3>
